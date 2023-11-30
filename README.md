@@ -1,0 +1,2 @@
+# CodeClauseInternship_imagebackgroundremover
+image background remover
